@@ -1,8 +1,8 @@
-1. ![1573717285940](images/work_late_bitcoin.png)
+1. ![1573717285940](images/work/work_late_bitcoin.png)
 
-2. ![img](images/work_pm_beiguo.png)
+2. ![img](images/work/work_pm_beiguo.png)
 
-3. ![img](images/work_change_25.png)
+3. ![img](images/work/work_change_25.png)
 
 4. 咦，我刚才是不是删了个文件？ 
 	![img](images/work/work_miss_file.png)
@@ -17,3 +17,16 @@
 
 8. ![img](images/work/work_project_err.png)
 
+9. ![1573870076606](images/work/work_code_workers_2.png)
+
+10. 上班时假装忙 8 小时比真的忙 8 小时更累![img](images/work/work_pretend_working.png)
+
+11. ![img](images/work/work_ ancestor_code.png)
+
+12. ![1573881615217](images/work/work_what_we_do.png)
+
+13. ![1573881945242](images/work/work_cto.png)
+
+14. ![img](images/work/work_evolution_ipad.png)
+
+15.
