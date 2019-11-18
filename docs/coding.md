@@ -77,6 +77,12 @@
 	
 	![1573890538240](images/coding/coding/coding_code_bugs_q.png)
 	
+	![N5idYQBG](images/coding/coding/coding_code_bugs_q2.gif)
+	
+	![1574066338875](images/coding/coding/coding_bug_socks.jpg)
+	
+	![1574067113870](images/coding/coding/coding_bug_fibo.jpg)
+	
 20.  ![1573802473653](images/coding/coding/coding_login_admin.png)
 
 21. ![1573802677663](images/coding/coding/coding_500_internal.png)
@@ -257,3 +263,38 @@
 73. ![1573892102805](images/coding/coding/coding_javascript_testing.jpg)
 
 74. ![1573892237786](images/coding/coding/coding_festival.png)
+
+75. 经常用到dashboard（仪表盘）这个词，对其中dash这个毫不相关的词根有些在意。原来dashboard最早是指马车前面用来挡泥的板子，到了汽车时代用途变成了安装各种仪表的面板，但还是保留了这个名字![1574042614871](images/coding/coding/coding_dashboard.png)
+
+76. ![1574043547957](images/coding/coding/coding_java_meituan.jpg)
+
+77. ![1574043762920](images/coding/coding/coding_lantern_festival.jpg)
+
+78. ![1574043819741](images/coding/coding/coding_bug_ai.jpg)
+
+79. ![1574044088894](images/coding/coding/coding_programmers_do.jpg)
+
+80. ![1574045128711](C:/Users/Administrator/AppData/Roaming/Typora/typora-user-images/1574045128711.png)
+
+81. ![1574066000217](images/coding/coding/coding_undefined.png)
+
+82. ![1574066262513](images/coding/coding/coding_browsers.jpg)
+
+83. 我认为我的代码如何工作 VS 它实际上如何工作 
+
+![1574066473146](images/coding/coding/coding_hjow_code.png)
+
+84. 当任务管理器没有反应的时候😃
+
+![1574066582857](images/coding/coding/coding_task_manager.jpg)
+
+85. ![1574066611780](images/coding/coding/coding_var_bus.png)
+
+86. ![1574066865020](images/coding/coding/coding_full_stack.jpg)
+
+87. ![1574067240533](images/coding/coding/coding_cache.jpg)
+
+88. 今天植树节🌲
+    画个二叉树庆祝一下吧
+
+![1574067284208](images/coding/coding/coding_binary_tree.jpg)

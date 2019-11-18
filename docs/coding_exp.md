@@ -6,3 +6,5 @@
 2. ![1573883161792](images/coding/code_exp/code_exp_space.png)
 
 3. ![1573892032439](images/coding/code_exp/code_exp_520.png)
+
+4. ![1574066953909](images/coding/code_exp/code_exp_friended.png)
