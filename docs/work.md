@@ -2,16 +2,18 @@
 
 2. ![img](images/work/work_pm_beiguo.png)
 
+   ![1574151527801](images/work/work_pm_beiguo2.png)
+
 3. ![img](images/work/work_change_25.png)
 
 4. 咦，我刚才是不是删了个文件？ 
-	![img](images/work/work_miss_file.png)
+  ![img](images/work/work_miss_file.png)
 
-5.  网络工程师
-	![img](images/work/work_network_engineer.png)
+5. 网络工程师
+   ![img](images/work/work_network_engineer.png)
 
 6. 坑的最里面还有一个PM，PM挖的坑，Programmer正在填坑。
-	![1573804714714](images/work/work_people.png)
+  ![1573804714714](images/work/work_people.png)
 
 7. ![1573805215607](images/work/work_requirements_diff.png)
 
@@ -30,3 +32,9 @@
 14. ![img](images/work/work_evolution_ipad.png)
 
 15. ![1574066728769](images/work/work_css_shame.png)
+
+16. ![1574151434416](images/work/work_Harvard_University.png)
+
+17. ![1574153060064](images/work/work_spiderman_engineer.png)
+
+18. ![1574153602565](images/work/work_junior_senior.png)

@@ -31,13 +31,8 @@
 
 ![img](images/coding/coding/coding_code_finish_train.png)
 
-7. ![1573719497790](images/coding/coding/coding_java_warm.png)
+7. ![1574148455704](images/coding/coding/coding_imperative_declarative.png)
 
-8. python
-
-   ![img](images/coding/coding/coding_python_girl_nail.png)
-
-![img](images/coding/coding/coding_python_girl_nail2.png)
 
 9. ![1573720603509](images/coding/coding/coding_colon_.png)
 
@@ -53,9 +48,6 @@
 
     ![img](images/coding/coding/coding_code_gandalf.png)
 
-13. 这不是bug，我是故意这么写的！对，不是bug，是特性！
-	![img](images/coding/coding/coding_picture_bugs.png)
-
 14. 代码重用
 	![img](images/coding/coding/coding_code_refactor.png)
 
@@ -67,21 +59,6 @@
 
 18. and boom shakalaka
 	![img](images/coding/coding/coding_feature_cocacola.png)
-
-19. 虽我之死，有子存焉；子又生孙，孙又生子；子又有子，子又有孙；子子孙孙无穷匮也
-	![img](images/coding/coding/coding_code_bugs.png)
-	
-	![img](images/coding/coding/coding_code_bugs2.png)
-	
-	![1573890653660](images/coding/coding/coding_code_bugs_village.png)
-	
-	![1573890538240](images/coding/coding/coding_code_bugs_q.png)
-	
-	![N5idYQBG](images/coding/coding/coding_code_bugs_q2.gif)
-	
-	![1574066338875](images/coding/coding/coding_bug_socks.jpg)
-	
-	![1574067113870](images/coding/coding/coding_bug_fibo.jpg)
 	
 20.  ![1573802473653](images/coding/coding/coding_login_admin.png)
 
@@ -334,12 +311,8 @@
 
 ![1574142249290](images/coding/coding/coding_code_exptected_jam.jpg)
 
-101. 如果早上喝咖啡还不能让你清醒，那就试着删除生产数据库中的一个表。
+100. ![1574148766280](images/coding/coding/coding_ide_colorsl.png)
 
-![1574151582473](images/coding/coding/coding_product_delete_coffee.jpg)
+101. ![1574153293163](images/coding/coding/coding_intelij_drag_mac.jpg)
 
-102. 计算和制作完成黑洞的照片，一共用了5PB（5，242,880Gb）的存储空间来储存数据。
-
-![1574151698083](images/coding/coding/coding_black_holes_pb.png)
-
-103. ![1574153133043](images/coding/coding/coding_bilibili.jpg)
+102. ![1574153463266](images/coding/coding/coding_reviews_not_.jpg)

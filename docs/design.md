@@ -10,3 +10,5 @@
 5. 开发者永远不知道用户是如何使用他设计的产品![1574065610227](images/design/design_cat_bowls.jpg)
 
 6. ![1574067011868](images/design/design_products_boy.png)
+
+7. ![1574147922863](images/design/design_pm_plz_not.jpg)

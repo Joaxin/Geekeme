@@ -8,3 +8,7 @@
 3. ![1573892032439](images/coding/code_exp/code_exp_520.png)
 
 4. ![1574066953909](images/coding/code_exp/code_exp_friended.png)
+
+5. ![1574145194150](images/coding/code_exp/code_exp_errors.png)
+
+6. ![1574152068786](images/coding/code_exp/code_exp_girls_q.png)

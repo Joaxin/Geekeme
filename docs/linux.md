@@ -5,3 +5,5 @@
 2. cron
 
    ![img](images/linux_cron.gif)
+
+3. ![1574149679114](images/linux/linux_company.png)
