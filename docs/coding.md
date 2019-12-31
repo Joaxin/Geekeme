@@ -343,3 +343,8 @@
 ![1574151698083](images/coding/coding/coding_black_holes_pb.png)
 
 103. ![1574153133043](images/coding/coding/coding_bilibili.jpg)
+
+104. 这个故事告诉我们，病毒的性能关系到你是否能成功拿到钱。![1574216213544](images/coding/coding/coding_wannacry_xp.jpg)
+
+105. 面向对象
+ ![](images\coding\coding\coding_oop.png)

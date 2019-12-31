@@ -1,4 +1,8 @@
-1. ![640?wx_fmt=png](images/coding/langs/coding_fortran1.png)
+1. ![1574217146995](images/coding/langs/coding_u_new_langs.png)
+
+![1574226673232](images/coding/langs/coding_u_new_langs_hello_world.png)
+
+2. ![640?wx_fmt=png](images/coding/langs/coding_fortran1.png)
 
 ![640?wx_fmt=png](images/coding/langs/coding_lisp1.png)
 
@@ -59,4 +63,18 @@
 
 9. ![1574152771279](images/coding/langs/coding_python_real.png)
 
+![1574218536592](images/coding/langs/coding_u_python_real.png)
+
 10. ![1574153720312](images/coding/langs/coding_cpluasplus.png)
+
+11. ![1574213309883](images/coding/langs/coding_html_h1.png)
+
+12. ![1574216554064](images/coding/langs/coding_u_posing_java.png)
+
+![1574224930344](images/coding/langs/coding_u_door_java.png)
+
+13. ![1574224987366](images/coding/langs/coding_u_javascript_403.png)
+
+14. ![1574226817129](images/coding/langs/coding_u_python_alone.png)
+
+15. ![](images\coding\langs\coding_u_php_brain.png)

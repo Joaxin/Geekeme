@@ -12,3 +12,5 @@
 6. ![1574067011868](images/design/design_products_boy.png)
 
 7. ![1574147922863](images/design/design_pm_plz_not.jpg)
+
+8. ![1574216672339](images/design/design_idea_shower.jpg)

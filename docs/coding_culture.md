@@ -12,4 +12,6 @@
 
 ![1574153359254](images/coding/culture/coding_996_white_bald.png)
 
+![1574216007417](images/coding/culture/coding_996_white_bald2.png)
+
 4. ![1574152515129](images/coding/culture/coding_cxk1.png)

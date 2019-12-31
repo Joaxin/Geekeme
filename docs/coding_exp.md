@@ -12,3 +12,5 @@
 5. ![1574145194150](images/coding/code_exp/code_exp_errors.png)
 
 6. ![1574152068786](images/coding/code_exp/code_exp_girls_q.png)
+
+7. ![1574213361309](images/coding/code_exp/code_exp_sql_find_gf.png)

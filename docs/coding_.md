@@ -6,6 +6,8 @@
 
    如果公司的某位程序员小哥哥突然说了句 “这垃圾代码是谁……”，但是没把话讲完就闭嘴的时候，很有可能是因为，他终于发现这段代码其实就是他自己写的…
 
+   fuck shit bastard code
+
 2. Tabs vs spaces 之争一比就弱了
 
    ![1573715607800](images/coding/coding/coding_brackets_space.png)
@@ -316,3 +318,13 @@
 101. ![1574153293163](images/coding/coding/coding_intelij_drag_mac.jpg)
 
 102. ![1574153463266](images/coding/coding/coding_reviews_not_.jpg)
+
+103. 一个直击灵魂的歌单…![1574155071263](images/coding/coding/coding_scm_music.png)
+
+104. ![1574213541342](images/coding/coding/coding_tom_automation.jpg)
+
+105. ![1574214986942](images/coding/coding/coding_architect_stable.jpg)
+
+106. ![1574216060794](images/coding/coding/coding_google_not.jpg)
+
+107. ![1574228864152](images/coding/coding/coding_crm_inferior.jpg)

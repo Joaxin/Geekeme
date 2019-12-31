@@ -31,3 +31,9 @@
    ![img](images/coding/coding/coding_picture_bugs.png)
 
 7. ![1574150504756](images/coding/wtf/coding_wtf_code_confused.png)
+
+8. 接手别人的项目发现Bug并成功改完之后......🐶🐶
+
+![1574155007066](images/coding/wtf/coding_wtf_chicken_dog.png)
+
+9. ![1574227153048](images/coding/wtf/coding_wtf_arknights.png)
