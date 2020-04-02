@@ -1,8 +1,9 @@
 /* globals Docute */
 
 new Docute({
+  title: 'Geekeme',
   target: '#docute',
-  sourcePath: './docs/',
+  sourcePath: './',
   nav: [
     {
       title: 'Home',
@@ -11,43 +12,91 @@ new Docute({
     {
       title: 'About',
       link: '/about'
-    }
+    },
   ],
   sidebar: [
     {
-      title: 'Guide',
-      links: [
-        {
-          title: 'Introduction',
-          link: '/introduction'
-        },
-        {
-          title: 'Installation',
-          link: '/installation'
-        },
-        {
-          title: 'Design',
-          link: '/design'
-        },
-        {
-          title: 'Linux',
-          link: '/linux'
-        },
-    // A dropdown menu
+      title: '头脑风暴',
+      link: '/brain_storm'
+    },
     {
-      title: 'Community',
+      title: '设计',
+      link: '/design'
+    },
+    {
+      title: '编程',
       children: [
         {
-          title: 'Spectrum',
-          link: 'https://spectrum.chat/your-community'
+          title: 'Coding',
+          link: '/coding'
         },
         {
-          title: 'Discord',
-          link: 'https://discord.app/your-discord-server'
+          title: '语言',
+          link: '/coding_langs'
+        },
+        {
+          title: 'WEB',
+          link: '/coding_web'
+        },
+        {
+          title: 'AI',
+          link: '/coding_ai'
+        },
+        {
+          title: 'Bugs',
+          link: '/coding_bugs'
+        },
+        {
+          title: '文化',
+          link: '/coding_culture'
+        },
+        {
+          title: '新闻',
+          link: '/coding_news'
+        },
+        {
+          title: '表达',
+          link: '/coding_exp'
+        },
+        {
+          title: '笑话',
+          link: '/coding_jokes'
+        },
+      ]
+    },
+    {
+      title: '电脑',
+      children: [
+        {
+          title: '系统',
+          link: '/computer_system'
+        },
+        {
+          title: '使用',
+          link: '/computer_use'
         }
       ]
-    }
+    },
+    {
+      title: '科学',
+      children: [
+        {
+          title: '科学是什么',
+          link: '/scientist'
+        },
+        {
+          title: '生物',
+          link: '/scientist_biology'
+        },
+        {
+          title: '物理',
+          link: '/scientist_physics'
+        },
+        {
+          title: '表达',
+          link: '/scientist_words'
+        },
       ]
-    }
+    },
   ]
 })

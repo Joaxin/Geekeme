@@ -1,0 +1,1 @@
+![9 ways to hangman](images/brainstorm/bstorm_ways to hangman.jpg)
