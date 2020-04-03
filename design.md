@@ -19,6 +19,12 @@
 
 ![img](images/work/work_project_err.png)
 
+## 软件
+
+![cb15209ea20e10544483d3ffb172d95e](images/design/design_products_apps01.png)
+
+![bee55e5b786ef2dd9fc04c06f556b5aa](images/design/design_products_apps02.png)
+
 ## UI/UX
 
 ![1573869936040](images/design/design_fonts_creative.jpg)

@@ -1,11 +1,5 @@
 > Justice delayed is justice denied
 
-<ImageZoom 
-  src="https://i.loli.net/2018/09/24/5ba8e878850e9.png" 
-  :border="true" 
-  width="300"
-/>
-
 - https://t.me/jike_collection
 
 
@@ -15,6 +9,18 @@
 
 
 ![](/images/jike_tg_geng.JPG)
+
+
+
+
+
+![Screenshot_20190630_210956](images/douban_haoqixin.png)
+
+<ImageZoom 
+  src="https://i.loli.net/2018/09/24/5ba8e878850e9.png" 
+  border="true" 
+  width="300"
+/>
 
 
 

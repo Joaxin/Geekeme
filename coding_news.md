@@ -13,7 +13,17 @@
 
 
 
+## 事件
 
+![arknights](images/coding/coding_bugs/coding_wtf_arknights.png)
+
+这个故事告诉我们，病毒的性能关系到你是否能成功拿到钱。![1574216213544](images/coding/coding/coding_wannacry_xp.jpg)
+
+![1574153133043](images/coding/coding/coding_bilibili.jpg)
+
+
+
+![IMG_20190423_123554](images/coding/news/coding_news_lottery_.jpg)
 
 ## 冷知识
 

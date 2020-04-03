@@ -12,6 +12,8 @@
 
 
 
+ ![1574148766280](images/coding/coding/coding_ide_colorsl.png)
+
 ## 公司
 
 <center class="half">
@@ -20,7 +22,11 @@
     <img src="images/coding/coding_whattff1.png" width="300"/><img src="images/coding/coding_whattff2.png" width="300"/>
 </center>
 
+
+
 ## Clothes
+
+![bb1dafc9869492a8ab148e68d1a90ee0](images/coding/culture/coding_clothes_plaid_shirt.png)
 
 ![hello world](images/coding/culture/coding_clothes_hello_world_html.png)
 
@@ -29,14 +35,18 @@
 问题来了，她爹/他妈是什么程序员？
 ![1573878044306](images/coding/coding/coding_baby_code.png)
 
-## ![dress](images/coding/culture/coding_culture_clothes_dress.png)
+![dress](images/coding/culture/coding_culture_clothes_dress.png)
 
 ## 节日
 
 今天植树节🌲
     画个二叉树庆祝一下吧
 
-![1574067284208](images/coding/coding/coding_binary_tree.jpg)
+![binary_tree](images/coding/coding/coding_binary_tree.jpg)
+
+![coding_festival](images/coding/coding/coding_festival.png)
+
+![lantern_festival](images/coding/coding/coding_lantern_festival.jpg)
 
 ## 环境
 
@@ -46,6 +56,8 @@
 ## 996
 
 ![1574152196863](images/coding/culture/coding_9961.png)
+
+![IMG_20190330_122900](images/coding/culture/coding_996_python.png)
 
 ![1574152479164](images/coding/culture/coding_9962.png)
 
@@ -57,6 +69,9 @@
 
 ![img](images/work/work_change_25.png)
 
+![6a45fdf2da34c382dc1fe8d94561e923](images/coding/culture/coding_996_pressure.png)
+
+![1be97d869c2d3f2c2cb555ca5a408bd9](images/coding/culture/coding_996_xian.png)
 
 ## 面试
 
@@ -64,7 +79,10 @@
 
 ![work_Harvard_University](images/work/work_Harvard_University.png)
 
-面试的时候：
+
+
+![1574140896490](images/coding/coding/coding_interview_vs_reality.jpg)
+> 面试的时候：
 - 写个二叉树？
 - 什么叫柯里化？
 - 什么是高阶函数？
@@ -74,6 +92,8 @@
 入职后：
 
 - 帮我们的 App 写个登录功能吧。
+
+ ![1574141397047](images/coding/coding/coding_redblack_tree.jpg)
 
 ## 职位
 
@@ -95,6 +115,8 @@
 ![1574147922863](images/design/design_pm_plz_not.jpg)
 
 ## 需求
+
+![1574140842587](images/coding/coding/coding_game_developer.png)
 
 > and boom shakalaka
  ![cola requirements](images/coding/coding/coding_feature_cocacola.png)
@@ -129,8 +151,18 @@ small changes
 
 ![img](images/coding/coding/coding_code_team_time.png)
 
+## 女装
+
+![Screenshot_20191117_072455](images/coding/culture/coding_girl_dressing_meaning.png)
+
+![Screenshot_20191120_190124](images/coding/culture/coding_girl_dressing_xujiaqie.png)
+
 ## 恶搞
 
 ![Page 404](images/coding/coding/coding_page_404.png)
 
 ![cxk](images/coding/culture/coding_cxk1.png)
+
+冰封王座
+
+![冰封王座](images/coding/coding/coding_got_chair.jpg)

@@ -1,3 +1,7 @@
+
+
+![1574043819741](images/coding/coding/coding_bug_ai.jpg)
+
 ## 表情包
 
 虽我之死，有子存焉；子又生孙，孙又生子；子又有子，子又有孙；子子孙孙无穷匮也
@@ -16,9 +20,15 @@
 
 ## Meme
 
+![1574139477993](images/coding/coding/coding_stephen_chow_bugs.jpg)
+
 ![1573890538240](images/coding/coding/coding_code_bugs_q.png)
 
 ![we bare bears bugs](images/coding/coding/coding_code_bugs_q2.gif)
+
+![mark zurkberg](images/coding/coding_bugs/coding_mark zurkberg.jpg)
+
+![1574214986942](images/coding/coding/coding_architect_stable.jpg)
 
 ##   一个bug de 一天
 
@@ -43,6 +53,10 @@
 > 再不行就重启软件，实在不行重启电脑
 
 ## Errors
+
+> 我认为我的代码如何工作 VS 它实际上如何工作 
+
+![1574066473146](images/coding/coding/coding_hjow_code.png)
 
 ![coding_code_finish_train](images/coding/coding/coding_code_finish_train.png)
 
@@ -82,7 +96,13 @@
     问：为什么？
     答：因为那是 CircleCI 测试通过的颜色。![1573888958938](images/coding/coding/coding_circleci_color.png)
 
+当你写了个比项目代码还复杂的单元测试。![1574139308976](images/coding/coding/coding_test_complicated.jpg)
+
+![1574153463266](images/coding/coding/coding_reviews_not_.jpg)
+
 ## 生产环境
+
+ ![程序发布那天 解Bug](images/coding/coding/coding_pub_bugs.png)
 
 ![bugs_production](images/coding/coding/coding_code_bugs_production.png)
 
@@ -95,6 +115,8 @@
 ![1573891729823](images/coding/coding/coding_hotfix2.png)
 
 代码部署到生产环境，程序员的心情变化![1573881890638](images/coding/coding/coding_emotions.png)
+
+![micorosoft production](images/coding/coding/coding_code_how.png)
 
 ## 生活
 
@@ -117,8 +139,7 @@
 
 多人经手过的项目代码![1573889641643](images/coding/coding/coding_houses.png)
 
+我心里想做的程序架构 VS 我真正写出来的程序架构![1573890076526](images/coding/coding/coding_architect.jpg)
+
 项目变得越来越大的原因..![1573890183061](images/coding/coding/coding_code_largejpg)
 
-## 事件
-
-![arknights](images/coding/coding_bugs/coding_wtf_arknights.png)

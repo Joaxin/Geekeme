@@ -12,6 +12,8 @@
 
 ![1574140585307](images/coding/coding/coding_ml_threshold.jpg)
 
+![Screenshot_20200211_112833](images/coding/coding_ai/coding_ai_face.png)
+
 ## 人工智能
 
 ![1574224649317](images/coding/coding_ai/coding_ai_if_brain.png)

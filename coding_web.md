@@ -11,7 +11,9 @@
  ( o_o) 诶，你这个地方好像写错了喔~
  (o_o ) 收到收到~![1574152344465](images/coding/langs/coding_javascript2r.png)
 
- ![1574224987366](images/coding/langs/coding_u_javascript_403.png)
+![javascript_403](images/coding/langs/coding_u_javascript_403.png)
+
+![javascript_testing](images/coding/coding/coding_javascript_testing.jpg)
 
 ![javascript_framework](images/coding/coding/coding_javascript_framework_new.png)
 
@@ -23,7 +25,11 @@
 
 ## 浏览器
 
+![1574066262513](images/coding/coding/coding_browsers.jpg)
+
 ![img](images/coding/coding/coding_chrome_ram.png)
+
+![chrome_edge](images/coding/web/coding_web_broswer_chrome_edge.jpg)
 
 ## 网页
 
@@ -38,6 +44,12 @@
 ![img](images/coding/coding/coding_loading.png)
 
 ## 前端 VS 后端
+
+![前端](images/coding/web/coding_web_frontend_so_delicious.jpg)
+
+![IMG_20190329_150924](images/coding/web/coding_web_frontend vs backend.jpg)
+
+![IMG_20190407_201325](images/coding/web/coding_web_frontend vs backend2.jpg)
 
 ## 网络设备
 
