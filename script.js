@@ -62,6 +62,11 @@ new Docute({
           title: '笑话',
           link: '/coding_jokes'
         },
+        {
+          title: '故事',
+          link: '/ coding_stories'
+        },
+       
       ]
     },
     {
@@ -74,6 +79,19 @@ new Docute({
         {
           title: '使用',
           link: '/computer_use'
+        }
+      ]
+    },
+    {
+      title: '行业',
+      children: [
+        {
+          title: '公司',
+          link: '/industry_it_company'
+        },
+        {
+          title: '学科',
+          link: '/industry_subjects'
         }
       ]
     },

@@ -51,11 +51,13 @@
 ## 环境
 
 网络工程师
-![img](images/work/work_network_engineer.png)
+![网络工程师](images/work/work_network_engineer.png)
 
 ## 996
 
 ![1574152196863](images/coding/culture/coding_9961.png)
+
+![coding_996_jack ma](images/coding/culture/coding_996_jack ma.png)
 
 ![IMG_20190330_122900](images/coding/culture/coding_996_python.png)
 
@@ -69,7 +71,7 @@
 
 ![img](images/work/work_change_25.png)
 
-![6a45fdf2da34c382dc1fe8d94561e923](images/coding/culture/coding_996_pressure.png)
+![996_pressure](images/coding/culture/coding_996_pressure.png)
 
 ![1be97d869c2d3f2c2cb555ca5a408bd9](images/coding/culture/coding_996_xian.png)
 
@@ -105,7 +107,9 @@
 
 ## 产品经理
 
-![img](images/work/work_pm_beiguo.png)
+
+
+![PM](images/work/work_pm_beiguo.png)
 
    ![1574151527801](images/work/work_pm_beiguo2.png)
 
@@ -114,7 +118,11 @@
 
 ![1574147922863](images/design/design_pm_plz_not.jpg)
 
+![673a4985b1580c36d70157239c09503e](images/coding/culture/coding_pn_ghosts_quit.png)
+
 ## 需求
+
+> 杀一个程序员不需要用枪，改三次需求就可以了。
 
 ![1574140842587](images/coding/coding/coding_game_developer.png)
 

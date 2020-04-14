@@ -67,6 +67,9 @@
 ![49223a8a82146453f128fbd5f574eec2](images/coding/linux/coding_linux_gnu_cat.png)
 
 官方宣布自 2008 年Stack Overflow 平台上线以来，已经帮助超过 180 万人，让他们学会该如何退出 Vim
+
+> 问：如何生成一个随机的字符串？答：让新手退出VIM 。
+
 ![quit vim](images/coding/coding/coding_stackoverflow_vim.jpg)
 
 ![Red Hat](images/coding/coding/coding_redhat_buy.jpg)
