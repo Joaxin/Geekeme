@@ -1,30 +1,22 @@
-> Justice delayed is justice denied
+## Geekeme
+
+> A collection of geek memes and words
+
+<ImageZoom src="https://i.loli.net/2018/09/24/5ba8e878850e9.png" border="true" width="300"/>
+
+## REFERENCES
 
 - https://t.me/jike_collection
 
+  ![jike_tg](/images/jike_tg.png)
+  
+- ![好奇心日报](images/douban_haoqixin.png) 
 
+- Reddit
 
-![jike_tg](/images/jike_tg.png)
+- 煎蛋
 
+- [有哪些经典的生物学笑话？](https://www.zhihu.com/question/)
 
-
-![](/images/jike_tg_geng.JPG)
-
-
-
-
-
-![Screenshot_20190630_210956](images/douban_haoqixin.png)
-
-<ImageZoom 
-  src="https://i.loli.net/2018/09/24/5ba8e878850e9.png" 
-  border="true" 
-  width="300"
-/>
-
-
-
-> 说明：** 所有内容**来自于网络，不代表作者本人的观点和看法，若引起不适，与作者本人立场无关，相关责任不由作者承担。
-
-
+- [都有哪些很有误导性的「经济学常识」？](https://www.zhihu.com/question/22570997)
 
