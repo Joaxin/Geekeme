@@ -26,7 +26,7 @@
 
 ## Clothes
 
-![bb1dafc9869492a8ab148e68d1a90ee0](images/coding/culture/coding_clothes_plaid_shirt.png)
+![Clothes](images/coding/culture/coding_clothes_plaid_shirt.png)
 
 ![hello world](images/coding/culture/coding_clothes_hello_world_html.png)
 
