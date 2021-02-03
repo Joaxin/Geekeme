@@ -16,9 +16,13 @@
 
 ![img](images/coding/coding/coding_canuse.jpg)
 
+
+
 ![1573806090016](images/coding/coding/coding_recapcha_bugs.png)
 
 ## Meme
+
+![不同人看到bug的反应](images/coding/coding/coding_code_bugs_babies.jpg)
 
 ![1574139477993](images/coding/coding/coding_stephen_chow_bugs.jpg)
 
@@ -29,6 +33,10 @@
 ![mark zurkberg](images/coding/coding_bugs/coding_mark zurkberg.jpg)
 
 ![1574214986942](images/coding/coding/coding_architect_stable.jpg)
+
+![coding_bugs_intern](images/coding/coding_bugs/coding_bugs_intern.gif)
+
+
 
 ##   一个bug de 一天
 
@@ -51,6 +59,8 @@
 ![1573717756524](images/coding/coding/coding_code_work_why.png)
 
 > 再不行就重启软件，实在不行重启电脑
+
+![coding_bugs_only_gods_know](images/coding/coding_bugs/coding_bugs_only_gods_know.jpg)
 
 ## Errors
 

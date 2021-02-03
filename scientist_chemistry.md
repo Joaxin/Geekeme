@@ -1,7 +1,7 @@
 ﻿1、湿法冶金: As+Cu==Cs+Au
 2、工业制香蕉: Ba+Na2=banana
 3、铝铜炼金术: 2Al+2Cu= 2Au+CI2↑
-4、工业制咖啡: 2Hf+2Fe+Co==Coffee+2HF
+4、工业制咖啡: 2Hf+2Fe+Co==Coffee+2HF / Co + 2Fe == Coffee
 5、工业制人和工业提升盐的品质: 食盐==O==人+良盐
 6、用钕和袜子制妹子:钕+袜子===铱+妹子
 7、工业制猫: 2Te+2Ca+H2=CaT+He

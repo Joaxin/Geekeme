@@ -4,6 +4,8 @@
 
 ## 编程
 
+![少年 你渴望力量吗](\images\coding\coding\coding_books_CN.png)
+
 ![coding books animal](images/coding/coding/coding_books.png)
 
  ![1574217146995](images/coding/langs/coding_u_new_langs.png)
@@ -91,6 +93,10 @@
 
 ## python
 
+![coding_u_python _女儿](images/coding/langs/coding_u_python%20_%E5%A5%B3%E5%84%BF.jpg)
+
+![coding_u_pythonpi](images/coding/langs/coding_u_pythonpi.jpeg)
+
    Python是比较容易学的语言![1574140457672](images/coding/coding/coding_python_spaces.jpg)![img](images/coding/coding/coding_python_girl_nail.png)
 
    ![img](images/coding/coding/coding_python_girl_nail2.png)
@@ -101,6 +107,8 @@
 
  ![1574226817129](images/coding/langs/coding_u_python_alone.png)
 
+![coding_u_python_隆力奇](images/coding/langs/coding_u_python_%E9%9A%86%E5%8A%9B%E5%A5%87.jpg)
+
 ## C/C++
 
 ![img](images/work/work_ ancestor_code.png)
@@ -110,9 +118,14 @@
 C++ in 21![how to learn C](images/coding/langs/coding_u_cC++ in 21 days.png) days
 
 ## PHP
+
+![74c3ec26bbaef1e5b2ddec780d776ed7](\images\coding\langs\coding_php3.png)
+
 ![](images\coding\langs\coding_u_php_brain.png)
 
 ![img](images/coding/coding/coding_include_.png)
+
+![coding_u_php _MD5](images/coding/langs/coding_u_php%20_MD5.jpg)
 
 ## Perl
 

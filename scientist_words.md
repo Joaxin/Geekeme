@@ -9,6 +9,8 @@ Do you have 11 protons? 'Cause you're Sodium fine!
 
 
 
+![b60de0ba37495bf5cab8addc3f1abdea](\images\words\words_lov_chem_love_heart.jpg)
+
 ## Math
 
 ![Love poem for nerds](images/words/words_lov_sincossecc.jpg)
