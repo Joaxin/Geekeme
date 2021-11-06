@@ -1,0 +1,1 @@
+<img src="../images/computer/com/b站 超算讨论.jpg" alt="b站 超算讨论" style="zoom: 50%;" />
